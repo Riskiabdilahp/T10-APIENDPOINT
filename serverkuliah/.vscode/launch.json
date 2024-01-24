@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://Riskiabdilahp/T10-APIENPOINT",
+            "request": "launch",
+            "url": "http://Riskiabdilahp/T10-APIENPOINT"
+        }
+    ]
+}
